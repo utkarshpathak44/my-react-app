@@ -1,11 +1,12 @@
-import './App.css'
+import "./App.css";
+import Container from "./Container";
 
 function App() {
   return (
     <>
-      <p>hello</p>
+      <Container />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
